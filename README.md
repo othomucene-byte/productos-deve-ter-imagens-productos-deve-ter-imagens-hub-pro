@@ -1,2 +1,27 @@
-# productos-deve-ter-imagens-productos-deve-ter-imagens-hub-pro
-Sistema moderno e interativo projetado especificamente para: "os productos deve ter imagens o preco em metical". Layout totalmente responsivo com controles em tempo real. - FBI Easy v.01 / miniLovable
+# Productos Deve Ter Imagens - Productos Deve Ter Imagens Hub Pro
+
+Sistema moderno e interativo projetado especificamente para: "os productos deve ter imagens o preco em metical". Layout totalmente responsivo com controles em tempo real.
+
+## 🚀 Tecnologias
+- **React 19 + TypeScript**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **Vite & Edge Deploy (Vercel)**
+- **E2B Sandbox MicroVM Isolation**
+
+## 📦 Como Executar Localmente
+```bash
+# 1. Instalar dependências
+npm install
+
+# 2. Iniciar servidor de desenvolvimento
+npm run dev
+
+# 3. Compilar para produção
+npm run build
+```
+
+## 🌐 Publicação & Autoria
+- **Desenvolvido por:** othomucene-byte (othomucene@gmail.com)
+- **Plataforma:** FBI Easy v.01 (miniLovable)
+- **Domínio / DNS:** Apontado para 197.218.119.237 (Name.com Reseller)
